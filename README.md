@@ -23,6 +23,6 @@ Berikut ini adalah daftar artikelnya:
 -   [Cara Sign Out Sambil Disconnect WiFi Di Windows 11](https://github.com/rakifsul/belajar_windows/blob/main/Cara-Sign-Out-Sambil-Disconnect-WiFi-Di-Windows-11.md)
 -   [Cara Pin File Non Exe Ke Taskbar Di Windows 11](https://github.com/rakifsul/belajar_windows/blob/main/Cara-Pin-File-Non-Exe-Ke-Taskbar-Di-Windows-11.md)
 
-## Link untuk Traktir
+## Freelance Worker Link
 
-- https://karyakarsa.com/rakifsul/info
+- https://projects.co.id/public/browse_users/view/99bc11/rakifsul
